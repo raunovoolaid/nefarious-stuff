@@ -1,0 +1,7 @@
+C:\Users\Rauno\Source\Repos\nefarious-stuff\TriggerBotVAM\TriggerBotVAM\bin\Debug\TriggerBotVAM.exe.config
+C:\Users\Rauno\Source\Repos\nefarious-stuff\TriggerBotVAM\TriggerBotVAM\bin\Debug\TriggerBotVAM.exe
+C:\Users\Rauno\Source\Repos\nefarious-stuff\TriggerBotVAM\TriggerBotVAM\bin\Debug\TriggerBotVAM.pdb
+C:\Users\Rauno\Source\Repos\nefarious-stuff\TriggerBotVAM\TriggerBotVAM\bin\Debug\VAMemory.dll
+C:\Users\Rauno\Source\Repos\nefarious-stuff\TriggerBotVAM\TriggerBotVAM\obj\Debug\TriggerBotVAM.csprojResolveAssemblyReference.cache
+C:\Users\Rauno\Source\Repos\nefarious-stuff\TriggerBotVAM\TriggerBotVAM\obj\Debug\TriggerBotVAM.exe
+C:\Users\Rauno\Source\Repos\nefarious-stuff\TriggerBotVAM\TriggerBotVAM\obj\Debug\TriggerBotVAM.pdb
